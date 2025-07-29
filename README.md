@@ -1,0 +1,1 @@
+This is the classic Asteroids game written in Python3 and Pygame. As of commit 1 the only thing it currently does is create a black window.
