@@ -30,7 +30,7 @@ class Asteroid(CircleShape):
         new_asteroid2 = Asteroid(self.position.x, self.position.y, new_radius)
         new_asteroid1.velocity = rotated_velocity * 1.2
         new_asteroid2.velocity = neg_rotated_velocity * 1.2
-        self.create_new_asteroids()
+        
         
 
         
